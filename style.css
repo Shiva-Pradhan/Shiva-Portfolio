@@ -10,7 +10,6 @@ body {
     color: #0f172a;
 }
 
-/* NAVBAR */
 nav {
     background: #0f172a;
     color: white;
@@ -36,7 +35,6 @@ nav a {
     font-weight: 600;
 }
 
-/* HERO */
 .hero {
     text-align: center;
     padding: 70px 20px 110px;
@@ -61,7 +59,6 @@ nav a {
     margin-top: 10px;
 }
 
-/* RESUME BUTTON – SMALLER & SAFE */
 .resume-btn {
     margin-top: 40px;
     background: #14b8a6;
@@ -74,7 +71,6 @@ nav a {
     background: #0d9488;
 }
 
-/* BUTTON */
 .btn, button {
     color: white;
     border-radius: 6px;
@@ -83,7 +79,6 @@ nav a {
     cursor: pointer;
 }
 
-/* SECTIONS */
 .section {
     padding: 55px 20%;
 }
@@ -101,7 +96,6 @@ nav a {
     margin-top: 15px;
 }
 
-/* SKILLS */
 .skills {
     display: flex;
     flex-wrap: wrap;
@@ -116,7 +110,6 @@ nav a {
     font-weight: 600;
 }
 
-/* CONTACT */
 .dark {
     background: #0f172a;
     color: #e5e7eb;
@@ -133,7 +126,6 @@ nav a {
     text-decoration: none;
 }
 
-/* FORM */
 form {
     display: flex;
     flex-direction: column;
@@ -151,9 +143,9 @@ button {
     padding: 10px;
 }
 
-/* RESPONSIVE */
 @media (max-width: 768px) {
     .section {
         padding: 40px 10%;
     }
 }
+
